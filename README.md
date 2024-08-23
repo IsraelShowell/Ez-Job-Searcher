@@ -1,13 +1,30 @@
-# Expo Router Example
+# Creator: Israel Showell
+# Start Date: 8/23/2024
+# End Date: 8//2024
+# Project: EZ Job Searcher
+# Version: 1.00
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+# Description:
+This application allows a user to search for jobs via a clean application format! This project allowed me to practice React Native, using APIs, UI/UX Design, application development for the web, Android, and IOS!
 
-## 🚀 How to use
+# Skills Practiced:
+- Web Application Development
+- Full-Stack Development (Front/Back-End)
+- UI/UX Design
+- Javascript
+- React Native, APIs, 
 
-```sh
-npx create-expo-app -e with-router
-```
+# Version History:
+# V-1.00: (7-27-24)
+Initial Version <br>
+Uploaded to Github <br>
 
-## 📝 Notes
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+# Current Features as of V-1.00:
+- 
+
+# Future Features to Implement:
+- 
+
+# Known/Possible Bugs:
+- No errors.....yet 
